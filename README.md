@@ -1,5 +1,5 @@
 # Web Scrapping with Selenium
- -  In this project I have built a web scrappng tool using which scrapes [HD Today](https://hdtoday.to/home) (a movie website) using selenium.
+ -  In this project I have built a web scrapping tool using which scrapes [HD Today](https://hdtoday.to/home) (a movie website) using selenium.
 
 ## Description
  - The tool scrapes the title, year, duration and type of trending movies and stores them in a `data.json` file.
